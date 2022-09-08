@@ -1,0 +1,12 @@
+C:\Pets\HappyPet.App\happypet.app.persistence\bin\Debug\netstandard2.1\HappyPet.App.Persistence.deps.json
+C:\Pets\HappyPet.App\happypet.app.persistence\bin\Debug\netstandard2.1\HappyPet.App.Persistence.dll
+C:\Pets\HappyPet.App\happypet.app.persistence\bin\Debug\netstandard2.1\HappyPet.App.Persistence.pdb
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.csprojAssemblyReference.cache
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.AssemblyInfoInputs.cache
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.AssemblyInfo.cs
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.csproj.CoreCompileInputs.cache
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.dll
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.pdb
+C:\Pets\HappyPet.App\happypet.app.persistence\bin\Debug\netstandard2.1\HappyPet.App.Domain.dll
+C:\Pets\HappyPet.App\happypet.app.persistence\bin\Debug\netstandard2.1\HappyPet.App.Domain.pdb
+C:\Pets\HappyPet.App\happypet.app.persistence\obj\Debug\netstandard2.1\HappyPet.App.Persistence.csproj.CopyComplete
